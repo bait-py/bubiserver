@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  opengist:
+    image: ghcr.io/thomiceli/opengist:1.7
+    container_name: opengist
+    restart: unless-stopped
+    ports:
+      - "6157:6157" # HTTP port
+    volumes:
+      - "/data/opengist:/opengist"
