@@ -1,0 +1,1177 @@
+[2024-04-25T14:53:58.895Z] info: docker.yaml was copied to the config folder
+[2024-04-25T14:53:58.901Z] info: services.yaml was copied to the config folder
+[2024-04-25T14:53:58.902Z] info: bookmarks.yaml was copied to the config folder
+[2024-04-25T14:53:58.930Z] info: widgets.yaml was copied to the config folder
+[2024-04-25T14:53:58.933Z] info: custom.css was copied to the config folder
+[2024-04-25T14:53:58.934Z] info: custom.js was copied to the config folder
+[2024-04-25T14:53:59.232Z] info: kubernetes.yaml was copied to the config folder
+[2024-04-25T15:45:55.941Z] error: Failed to load services.yaml, please check for errors
+[2024-04-25T15:45:55.944Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-25T15:45:56.032Z] error: Failed to load services.yaml, please check for errors
+[2024-04-25T15:45:56.033Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-25T15:45:56.291Z] error: Failed to load services.yaml, please check for errors
+[2024-04-25T15:45:56.292Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-25T15:46:20.235Z] error: Failed to load services.yaml, please check for errors
+[2024-04-25T15:46:20.236Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-25T15:46:20.239Z] error: Failed to load services.yaml, please check for errors
+[2024-04-25T15:46:20.241Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-25T15:46:20.588Z] error: Failed to load services.yaml, please check for errors
+[2024-04-25T15:46:20.589Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-25T15:46:29.168Z] error: Failed to load services.yaml, please check for errors
+[2024-04-25T15:46:29.169Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-25T15:46:29.175Z] error: Failed to load services.yaml, please check for errors
+[2024-04-25T15:46:29.176Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-25T15:46:29.457Z] error: Failed to load services.yaml, please check for errors
+[2024-04-25T15:46:29.458Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-25T15:46:30.522Z] error: Failed to load services.yaml, please check for errors
+[2024-04-25T15:46:30.523Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-25T15:46:36.703Z] error: Failed to load services.yaml, please check for errors
+[2024-04-25T15:46:36.704Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-25T15:47:28.700Z] error: Failed to load services.yaml, please check for errors
+[2024-04-25T15:47:28.701Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-25T15:47:28.792Z] error: Failed to load services.yaml, please check for errors
+[2024-04-25T15:47:28.793Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-25T15:47:29.049Z] error: Failed to load services.yaml, please check for errors
+[2024-04-25T15:47:29.049Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-25T15:47:30.204Z] error: Failed to load services.yaml, please check for errors
+[2024-04-25T15:47:30.205Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-25T15:47:30.844Z] error: Failed to load services.yaml, please check for errors
+[2024-04-25T15:47:30.845Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-25T15:47:31.446Z] error: Failed to load services.yaml, please check for errors
+[2024-04-25T15:47:31.447Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-25T15:47:42.165Z] error: Failed to load services.yaml, please check for errors
+[2024-04-25T15:47:42.166Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-29T13:25:53.794Z] error: undefined
+[2024-04-29T13:32:47.102Z] error: undefined
+[2024-04-29T15:35:29.430Z] error: undefined
+[2024-04-29T15:35:32.054Z] error: undefined
+[2024-04-29T15:35:34.796Z] error: undefined
+[2024-04-29T15:35:38.293Z] error: undefined
+[2024-04-29T15:35:50.686Z] error: undefined
+[2024-04-29T15:36:32.749Z] error: undefined
+[2024-04-29T15:37:46.378Z] error: undefined
+[2024-04-29T15:42:02.078Z] error: undefined
+[2024-04-29T15:42:27.327Z] error: undefined
+[2024-04-29T15:44:55.558Z] error: Failed to load settings.yaml, please check for errors
+[2024-04-29T15:44:55.561Z] error: YAMLException: duplicated mapping key (22:1)
+
+ 19 | headerStyle: clean
+ 20 | hideVersion: true
+ 21 | target: _self
+ 22 | showStats: false
+------^
+ 23 | statusStyle: "dot"
+ 24 | 
+[2024-04-29T15:44:55.566Z] error: Failed to discover services, please check kubernetes.yaml for errors or remove example entries.
+[2024-04-29T15:44:55.567Z] error: YAMLException: duplicated mapping key (22:1)
+
+ 19 | headerStyle: clean
+ 20 | hideVersion: true
+ 21 | target: _self
+ 22 | showStats: false
+------^
+ 23 | statusStyle: "dot"
+ 24 | 
+[2024-04-29T15:44:55.586Z] error: Failed to load settings.yaml, please check for errors
+[2024-04-29T15:44:55.587Z] error: YAMLException: duplicated mapping key (22:1)
+
+ 19 | headerStyle: clean
+ 20 | hideVersion: true
+ 21 | target: _self
+ 22 | showStats: false
+------^
+ 23 | statusStyle: "dot"
+ 24 | 
+[2024-04-29T15:44:55.622Z] error: <index> YAMLException: duplicated mapping key (22:1)
+
+ 19 | headerStyle: clean
+ 20 | hideVersion: true
+ 21 | target: _self
+ 22 | showStats: false
+------^
+ 23 | statusStyle: "dot"
+ 24 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at storeMappingPair (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1448:7)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2263:9)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readDocument (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2715:3)
+    at loadDocuments (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2778:5)
+    at Object.load$1 [as load] (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2804:19)
+    at getSettings (/app/.next/server/chunks/9277.js:109:75)
+    at getStaticProps (/app/.next/server/pages/index.js:3000:101)
+[2024-04-29T15:44:55.811Z] error: Failed to discover services, please check kubernetes.yaml for errors or remove example entries.
+[2024-04-29T15:44:55.813Z] error: YAMLException: duplicated mapping key (22:1)
+
+ 19 | headerStyle: clean
+ 20 | hideVersion: true
+ 21 | target: _self
+ 22 | showStats: false
+------^
+ 23 | statusStyle: "dot"
+ 24 | 
+[2024-04-29T15:44:55.816Z] error: Failed to load settings.yaml, please check for errors
+[2024-04-29T15:44:55.818Z] error: YAMLException: duplicated mapping key (22:1)
+
+ 19 | headerStyle: clean
+ 20 | hideVersion: true
+ 21 | target: _self
+ 22 | showStats: false
+------^
+ 23 | statusStyle: "dot"
+ 24 | 
+[2024-04-29T15:44:55.830Z] error: Failed to load settings.yaml, please check for errors
+[2024-04-29T15:44:55.830Z] error: YAMLException: duplicated mapping key (22:1)
+
+ 19 | headerStyle: clean
+ 20 | hideVersion: true
+ 21 | target: _self
+ 22 | showStats: false
+------^
+ 23 | statusStyle: "dot"
+ 24 | 
+[2024-04-29T15:45:00.806Z] error: undefined
+[2024-04-29T15:45:27.413Z] error: undefined
+[2024-04-29T15:45:59.100Z] error: undefined
+[2024-04-29T15:47:23.374Z] error: undefined
+[2024-04-29T15:48:41.864Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2024-04-29T15:48:41.866Z] error: duplicated mapping key (5:3)
+
+ 2 | # For configuration options and ex ...
+ 3 | # https://gethomepage.dev/latest/c ...
+ 4 | - icon:
+ 5 |   icon: github.png
+-------^
+ 6 | 
+ 7 | - resources:
+[2024-04-29T15:48:41.929Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2024-04-29T15:48:41.930Z] error: duplicated mapping key (5:3)
+
+ 2 | # For configuration options and ex ...
+ 3 | # https://gethomepage.dev/latest/c ...
+ 4 | - icon:
+ 5 |   icon: github.png
+-------^
+ 6 | 
+ 7 | - resources:
+[2024-04-29T15:48:42.165Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2024-04-29T15:48:42.166Z] error: duplicated mapping key (5:3)
+
+ 2 | # For configuration options and ex ...
+ 3 | # https://gethomepage.dev/latest/c ...
+ 4 | - icon:
+ 5 |   icon: github.png
+-------^
+ 6 | 
+ 7 | - resources:
+[2024-04-29T15:48:46.865Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2024-04-29T15:48:46.866Z] error: duplicated mapping key (5:3)
+
+ 2 | # For configuration options and ex ...
+ 3 | # https://gethomepage.dev/latest/c ...
+ 4 | - icon:
+ 5 |   icon: github.png
+-------^
+ 6 | 
+ 7 | - resources:
+[2024-04-29T15:48:47.163Z] error: undefined
+[2024-04-29T15:49:16.903Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2024-04-29T15:49:16.904Z] error: duplicated mapping key (5:3)
+
+ 2 | # For configuration options and ex ...
+ 3 | # https://gethomepage.dev/latest/c ...
+ 4 | - icon:
+ 5 |   icon: https://raw.githubusercont ...
+-------^
+ 6 | - resources:
+ 7 |     cpu: true
+[2024-04-29T15:49:16.940Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2024-04-29T15:49:16.941Z] error: duplicated mapping key (5:3)
+
+ 2 | # For configuration options and ex ...
+ 3 | # https://gethomepage.dev/latest/c ...
+ 4 | - icon:
+ 5 |   icon: https://raw.githubusercont ...
+-------^
+ 6 | - resources:
+ 7 |     cpu: true
+[2024-04-29T15:49:17.141Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2024-04-29T15:49:17.142Z] error: duplicated mapping key (5:3)
+
+ 2 | # For configuration options and ex ...
+ 3 | # https://gethomepage.dev/latest/c ...
+ 4 | - icon:
+ 5 |   icon: https://raw.githubusercont ...
+-------^
+ 6 | - resources:
+ 7 |     cpu: true
+[2024-04-29T15:49:31.084Z] error: undefined
+[2024-04-29T15:51:49.210Z] error: undefined
+[2024-04-29T15:51:53.471Z] error: undefined
+[2024-04-29T15:51:54.207Z] error: undefined
+[2024-04-29T15:51:58.475Z] error: undefined
+[2024-04-29T15:51:59.651Z] error: undefined
+[2024-04-29T15:54:05.787Z] error: undefined
+[2024-04-29T15:54:05.883Z] error: undefined
+[2024-04-29T15:54:10.793Z] error: undefined
+[2024-04-29T15:54:14.149Z] error: undefined
+[2024-04-29T15:54:15.796Z] error: undefined
+[2024-04-29T15:54:19.154Z] error: undefined
+[2024-04-29T15:54:20.801Z] error: undefined
+[2024-04-29T15:54:22.072Z] error: undefined
+[2024-04-29T15:54:22.654Z] error: undefined
+[2024-04-29T15:54:22.746Z] error: undefined
+[2024-04-29T15:54:23.181Z] error: undefined
+[2024-04-29T15:54:23.233Z] error: undefined
+[2024-04-29T15:54:30.565Z] error: undefined
+[2024-04-29T15:54:30.667Z] error: undefined
+[2024-04-29T15:54:57.633Z] error: undefined
+[2024-04-29T15:54:57.883Z] error: undefined
+[2024-04-29T15:55:02.636Z] error: undefined
+[2024-04-29T15:55:37.583Z] error: undefined
+[2024-04-29T15:55:37.658Z] error: undefined
+[2024-04-29T15:55:42.563Z] error: undefined
+[2024-04-29T15:55:42.662Z] error: undefined
+[2024-04-29T15:55:44.682Z] error: undefined
+[2024-04-29T15:55:45.363Z] error: undefined
+[2024-04-29T15:55:45.444Z] error: undefined
+[2024-04-29T15:55:46.073Z] error: undefined
+[2024-04-29T15:55:46.125Z] error: undefined
+[2024-04-29T15:55:47.566Z] error: undefined
+[2024-04-29T15:55:47.633Z] error: undefined
+[2024-04-29T15:55:48.301Z] error: undefined
+[2024-04-29T15:55:48.351Z] error: undefined
+[2024-04-29T15:55:49.005Z] error: undefined
+[2024-04-29T15:55:49.112Z] error: undefined
+[2024-04-29T15:55:49.657Z] error: undefined
+[2024-04-29T15:55:49.700Z] error: undefined
+[2024-04-29T15:55:50.281Z] error: undefined
+[2024-04-29T15:55:50.355Z] error: undefined
+[2024-04-29T15:55:50.953Z] error: undefined
+[2024-04-29T15:55:50.997Z] error: undefined
+[2024-04-29T15:55:51.506Z] error: undefined
+[2024-04-29T15:55:51.573Z] error: undefined
+[2024-04-29T15:55:52.187Z] error: undefined
+[2024-04-29T15:55:52.229Z] error: undefined
+[2024-04-29T15:55:52.795Z] error: undefined
+[2024-04-29T15:55:52.875Z] error: undefined
+[2024-04-29T15:55:53.384Z] error: undefined
+[2024-04-29T15:55:53.451Z] error: undefined
+[2024-04-29T15:55:54.067Z] error: undefined
+[2024-04-29T15:55:54.155Z] error: undefined
+[2024-04-29T15:55:54.651Z] error: undefined
+[2024-04-29T15:55:54.701Z] error: undefined
+[2024-04-29T15:55:55.283Z] error: undefined
+[2024-04-29T15:55:55.336Z] error: undefined
+[2024-04-29T15:55:55.973Z] error: undefined
+[2024-04-29T15:55:56.065Z] error: undefined
+[2024-04-29T15:56:07.819Z] error: undefined
+[2024-04-29T15:56:27.628Z] error: undefined
+[2024-04-29T16:31:36.287Z] error: undefined
+[2024-04-29T16:33:23.866Z] error: undefined
+[2024-04-29T16:33:24.245Z] error: undefined
+[2024-04-29T16:33:28.889Z] error: undefined
+[2024-04-29T16:33:29.976Z] error: undefined
+[2024-04-29T16:33:35.033Z] error: undefined
+[2024-04-29T16:33:50.661Z] error: undefined
+[2024-04-29T16:33:53.033Z] error: undefined
+[2024-04-29T16:34:03.062Z] error: undefined
+[2024-04-29T16:34:10.923Z] error: undefined
+[2024-04-29T16:34:25.952Z] error: undefined
+[2024-04-29T16:34:31.537Z] error: undefined
+[2024-04-29T16:34:37.969Z] error: undefined
+[2024-04-29T16:34:40.985Z] error: undefined
+[2024-04-29T16:34:43.474Z] error: undefined
+[2024-04-29T16:34:57.976Z] error: undefined
+[2024-04-29T16:35:21.054Z] error: undefined
+[2024-04-29T16:36:34.378Z] error: undefined
+[2024-04-29T16:36:34.445Z] error: undefined
+[2024-04-29T16:36:39.382Z] error: undefined
+[2024-04-29T16:37:18.106Z] error: undefined
+[2024-04-29T16:37:18.194Z] error: undefined
+[2024-04-29T16:37:23.110Z] error: undefined
+[2024-04-29T16:37:28.734Z] error: undefined
+[2024-04-29T16:37:54.609Z] error: undefined
+[2024-04-29T16:38:24.128Z] error: undefined
+[2024-04-29T16:39:15.714Z] error: undefined
+[2024-04-29T16:39:15.778Z] error: undefined
+[2024-04-29T16:39:20.723Z] error: undefined
+[2024-04-29T16:39:36.262Z] error: undefined
+[2024-04-29T16:39:41.492Z] error: undefined
+[2024-04-29T16:40:06.841Z] error: undefined
+[2024-04-29T16:40:07.247Z] error: undefined
+[2024-04-29T16:40:17.659Z] error: undefined
+[2024-04-29T16:41:11.333Z] error: undefined
+[2024-04-29T16:41:11.724Z] error: undefined
+[2024-04-29T16:43:31.446Z] error: undefined
+[2024-04-29T16:43:31.736Z] error: undefined
+[2024-04-29T16:43:36.439Z] error: undefined
+[2024-04-29T16:43:40.003Z] error: undefined
+[2024-04-29T16:43:45.790Z] error: undefined
+[2024-04-29T16:43:55.035Z] error: undefined
+[2024-04-29T16:44:06.091Z] error: undefined
+[2024-04-29T16:44:15.659Z] error: undefined
+[2024-04-29T16:44:20.635Z] error: undefined
+[2024-04-29T16:44:28.637Z] error: undefined
+[2024-04-29T16:44:38.103Z] error: undefined
+[2024-04-29T16:44:53.658Z] error: undefined
+[2024-04-29T16:44:58.464Z] error: undefined
+[2024-04-29T16:45:09.250Z] error: undefined
+[2024-04-29T16:45:29.582Z] error: undefined
+[2024-04-29T16:45:29.902Z] error: undefined
+[2024-04-29T16:45:38.084Z] error: undefined
+[2024-04-29T16:45:38.179Z] error: undefined
+[2024-04-29T16:45:43.088Z] error: undefined
+[2024-04-29T16:45:43.183Z] error: undefined
+[2024-04-29T16:45:47.278Z] error: undefined
+[2024-04-29T16:45:47.328Z] error: undefined
+[2024-04-29T16:46:15.964Z] error: undefined
+[2024-04-29T16:46:16.299Z] error: undefined
+[2024-04-29T16:46:21.898Z] error: undefined
+[2024-04-29T16:46:31.650Z] error: undefined
+[2024-04-29T16:46:45.137Z] error: undefined
+[2024-04-29T16:46:45.200Z] error: <index> TypeError: group[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/pages/index.js:3521:45
+    at Array.map (<anonymous>)
+    at bookmarksResponse (/app/.next/server/pages/index.js:3519:36)
+    at async getStaticProps (/app/.next/server/pages/index.js:3007:23)
+    at async Object.renderToHTML (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/render.js:386:20)
+    at async doRender (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:687:38)
+    at async cacheEntry.responseCache.get.isManualRevalidate.isManualRevalidate (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:796:28)
+    at async /app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/response-cache/index.js:80:36
+[2024-04-29T16:46:45.370Z] error: undefined
+[2024-04-29T16:46:50.123Z] error: undefined
+[2024-04-29T16:46:50.359Z] error: undefined
+[2024-04-29T16:46:50.652Z] error: undefined
+[2024-04-29T16:46:55.126Z] error: undefined
+[2024-04-29T16:46:58.240Z] error: undefined
+[2024-04-29T16:46:58.293Z] error: <index> TypeError: group[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/pages/index.js:3521:45
+    at Array.map (<anonymous>)
+    at bookmarksResponse (/app/.next/server/pages/index.js:3519:36)
+    at async getStaticProps (/app/.next/server/pages/index.js:3007:23)
+    at async Object.renderToHTML (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/render.js:386:20)
+    at async doRender (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:687:38)
+    at async cacheEntry.responseCache.get.isManualRevalidate.isManualRevalidate (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:796:28)
+    at async /app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/response-cache/index.js:80:36
+[2024-04-29T16:46:58.442Z] error: undefined
+[2024-04-29T16:46:59.678Z] error: undefined
+[2024-04-29T16:47:03.200Z] error: undefined
+[2024-04-29T16:47:03.258Z] error: undefined
+[2024-04-29T16:47:03.640Z] error: undefined
+[2024-04-29T16:47:05.647Z] error: undefined
+[2024-04-29T16:47:08.203Z] error: undefined
+[2024-04-29T16:47:08.262Z] error: undefined
+[2024-04-29T16:47:20.643Z] error: undefined
+[2024-04-29T16:47:25.626Z] error: undefined
+[2024-04-29T16:47:25.675Z] error: undefined
+[2024-04-29T16:47:25.847Z] error: undefined
+[2024-04-29T16:47:25.922Z] error: <index> TypeError: group[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/pages/index.js:3521:45
+    at Array.map (<anonymous>)
+    at bookmarksResponse (/app/.next/server/pages/index.js:3519:36)
+    at async getStaticProps (/app/.next/server/pages/index.js:3007:23)
+    at async Object.renderToHTML (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/render.js:386:20)
+    at async doRender (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:687:38)
+    at async cacheEntry.responseCache.get.isManualRevalidate.isManualRevalidate (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:796:28)
+    at async /app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/response-cache/index.js:80:36
+[2024-04-29T16:47:26.073Z] error: undefined
+[2024-04-29T16:47:30.827Z] error: undefined
+[2024-04-29T16:47:30.893Z] error: undefined
+[2024-04-29T16:47:31.642Z] error: undefined
+[2024-04-29T16:47:35.830Z] error: undefined
+[2024-04-29T16:47:35.896Z] error: undefined
+[2024-04-29T16:47:56.014Z] error: undefined
+[2024-04-29T16:47:57.569Z] error: undefined
+[2024-04-29T16:48:00.987Z] error: undefined
+[2024-04-29T16:48:01.049Z] error: undefined
+[2024-04-29T16:48:05.990Z] error: undefined
+[2024-04-29T16:48:06.053Z] error: undefined
+[2024-04-29T16:48:08.987Z] error: undefined
+[2024-04-29T16:48:09.081Z] error: undefined
+[2024-04-29T16:48:18.986Z] error: undefined
+[2024-04-29T16:48:26.550Z] error: undefined
+[2024-04-29T16:48:26.630Z] error: <index> TypeError: group[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/pages/index.js:3521:45
+    at Array.map (<anonymous>)
+    at bookmarksResponse (/app/.next/server/pages/index.js:3519:36)
+    at async getStaticProps (/app/.next/server/pages/index.js:3007:23)
+    at async Object.renderToHTML (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/render.js:386:20)
+    at async doRender (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:687:38)
+    at async cacheEntry.responseCache.get.isManualRevalidate.isManualRevalidate (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:796:28)
+    at async /app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/response-cache/index.js:80:36
+[2024-04-29T16:48:26.827Z] error: undefined
+[2024-04-29T16:48:31.499Z] error: undefined
+[2024-04-29T16:48:31.828Z] error: undefined
+[2024-04-29T16:48:32.645Z] error: undefined
+[2024-04-29T16:48:36.508Z] error: undefined
+[2024-04-29T16:48:42.626Z] error: undefined
+[2024-04-29T16:48:42.676Z] error: <index> TypeError: group[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/pages/index.js:3521:45
+    at Array.map (<anonymous>)
+    at bookmarksResponse (/app/.next/server/pages/index.js:3519:36)
+    at async getStaticProps (/app/.next/server/pages/index.js:3007:23)
+    at async Object.renderToHTML (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/render.js:386:20)
+    at async doRender (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:687:38)
+    at async cacheEntry.responseCache.get.isManualRevalidate.isManualRevalidate (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:796:28)
+    at async /app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/response-cache/index.js:80:36
+[2024-04-29T16:48:42.827Z] error: undefined
+[2024-04-29T16:48:47.583Z] error: undefined
+[2024-04-29T16:48:47.648Z] error: undefined
+[2024-04-29T16:48:48.644Z] error: undefined
+[2024-04-29T16:48:52.586Z] error: undefined
+[2024-04-29T16:48:52.654Z] error: undefined
+[2024-04-29T16:49:17.749Z] error: undefined
+[2024-04-29T16:49:17.824Z] error: <index> TypeError: group[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/pages/index.js:3521:45
+    at Array.map (<anonymous>)
+    at bookmarksResponse (/app/.next/server/pages/index.js:3519:36)
+    at async getStaticProps (/app/.next/server/pages/index.js:3007:23)
+    at async Object.renderToHTML (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/render.js:386:20)
+    at async doRender (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:687:38)
+    at async cacheEntry.responseCache.get.isManualRevalidate.isManualRevalidate (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:796:28)
+    at async /app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/response-cache/index.js:80:36
+[2024-04-29T16:49:17.979Z] error: undefined
+[2024-04-29T16:49:21.857Z] error: undefined
+[2024-04-29T16:49:22.727Z] error: undefined
+[2024-04-29T16:49:22.785Z] error: undefined
+[2024-04-29T16:49:27.732Z] error: undefined
+[2024-04-29T16:49:27.789Z] error: undefined
+[2024-04-29T16:49:28.709Z] error: undefined
+[2024-04-29T16:49:32.636Z] error: undefined
+[2024-04-29T16:50:15.106Z] error: undefined
+[2024-04-29T16:50:15.175Z] error: <index> TypeError: bookmarks.map is not a function
+    at bookmarksResponse (/app/.next/server/pages/index.js:3519:36)
+    at async getStaticProps (/app/.next/server/pages/index.js:3007:23)
+    at async Object.renderToHTML (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/render.js:386:20)
+    at async doRender (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:687:38)
+    at async cacheEntry.responseCache.get.isManualRevalidate.isManualRevalidate (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:796:28)
+    at async /app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/response-cache/index.js:80:36
+[2024-04-29T16:50:15.322Z] error: undefined
+[2024-04-29T16:50:20.077Z] error: undefined
+[2024-04-29T16:50:20.132Z] error: undefined
+[2024-04-29T16:50:20.144Z] error: undefined
+[2024-04-29T16:50:20.343Z] error: undefined
+[2024-04-29T16:50:25.079Z] error: undefined
+[2024-04-29T16:50:25.145Z] error: undefined
+[2024-04-29T16:50:25.630Z] error: undefined
+[2024-04-29T16:50:30.609Z] error: undefined
+[2024-04-29T16:50:30.634Z] error: undefined
+[2024-04-29T16:50:30.667Z] error: undefined
+[2024-04-29T16:50:31.632Z] error: undefined
+[2024-04-29T16:50:35.645Z] error: undefined
+[2024-04-29T16:50:38.977Z] error: undefined
+[2024-04-29T16:50:43.935Z] error: undefined
+[2024-04-29T16:50:43.996Z] error: undefined
+[2024-04-29T16:50:44.644Z] error: undefined
+[2024-04-29T16:51:02.467Z] error: undefined
+[2024-04-29T16:51:02.529Z] error: undefined
+[2024-04-29T16:51:07.470Z] error: undefined
+[2024-04-29T16:51:25.085Z] error: undefined
+[2024-04-29T16:51:25.389Z] error: undefined
+[2024-04-29T16:51:35.653Z] error: undefined
+[2024-04-29T16:52:04.371Z] error: undefined
+[2024-04-29T16:52:40.972Z] error: undefined
+[2024-04-29T16:52:43.903Z] error: undefined
+[2024-04-29T16:53:14.316Z] error: undefined
+[2024-04-29T16:53:42.559Z] error: undefined
+[2024-04-29T16:53:42.875Z] error: undefined
+[2024-04-29T16:53:50.154Z] error: undefined
+[2024-04-29T16:53:50.462Z] error: undefined
+[2024-04-29T16:53:55.157Z] error: undefined
+[2024-04-29T16:54:00.130Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T16:54:00.131Z] error: YAMLException: end of the stream or a document separator is expected (10:1)
+
+  7 |         icon: nextcloud.png
+  8 |         href: https://10.1.6.130
+  9 |         description: Almacenami ...
+ 10 | widget:
+------^
+ 11 |     type: nextcloud
+ 12 |     url: https://10.1.6.130
+[2024-04-29T16:54:00.167Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T16:54:00.168Z] error: YAMLException: end of the stream or a document separator is expected (10:1)
+
+  7 |         icon: nextcloud.png
+  8 |         href: https://10.1.6.130
+  9 |         description: Almacenami ...
+ 10 | widget:
+------^
+ 11 |     type: nextcloud
+ 12 |     url: https://10.1.6.130
+[2024-04-29T16:54:00.465Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T16:54:00.466Z] error: YAMLException: end of the stream or a document separator is expected (10:1)
+
+  7 |         icon: nextcloud.png
+  8 |         href: https://10.1.6.130
+  9 |         description: Almacenami ...
+ 10 | widget:
+------^
+ 11 |     type: nextcloud
+ 12 |     url: https://10.1.6.130
+[2024-04-29T16:54:05.083Z] error: undefined
+[2024-04-29T16:54:05.377Z] error: undefined
+[2024-04-29T16:54:06.515Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T16:54:06.515Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-29T16:54:06.558Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T16:54:06.558Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-29T16:54:06.834Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T16:54:06.835Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-29T16:54:10.086Z] error: undefined
+[2024-04-29T16:54:11.458Z] error: undefined
+[2024-04-29T16:54:15.089Z] error: undefined
+[2024-04-29T16:54:16.462Z] error: undefined
+[2024-04-29T16:54:22.257Z] error: undefined
+[2024-04-29T16:54:22.771Z] error: undefined
+[2024-04-29T16:54:57.664Z] error: undefined
+[2024-04-29T16:55:11.203Z] error: undefined
+[2024-04-29T16:55:11.523Z] error: undefined
+[2024-04-29T16:55:18.638Z] error: undefined
+[2024-04-29T16:55:32.531Z] error: undefined
+[2024-04-29T16:57:14.444Z] error: undefined
+[2024-04-29T16:57:34.344Z] error: undefined
+[2024-04-29T16:57:34.419Z] error: undefined
+[2024-04-29T16:57:39.348Z] error: undefined
+[2024-04-29T17:00:18.621Z] error: undefined
+[2024-04-29T17:00:38.398Z] error: undefined
+[2024-04-29T17:00:38.759Z] error: undefined
+[2024-04-29T17:00:48.256Z] error: undefined
+[2024-04-29T17:00:54.181Z] error: undefined
+[2024-04-29T17:00:54.449Z] error: undefined
+[2024-04-29T17:01:02.963Z] error: undefined
+[2024-04-29T17:01:02.984Z] error: undefined
+[2024-04-29T17:01:07.962Z] error: undefined
+[2024-04-29T17:01:07.988Z] error: undefined
+[2024-04-29T17:01:10.498Z] error: undefined
+[2024-04-29T17:01:12.990Z] error: undefined
+[2024-04-29T17:01:17.972Z] error: undefined
+[2024-04-29T17:01:33.669Z] error: undefined
+[2024-04-29T17:01:58.000Z] error: undefined
+[2024-04-29T17:01:58.260Z] error: undefined
+[2024-04-29T17:02:04.333Z] error: undefined
+[2024-04-29T17:02:04.369Z] error: undefined
+[2024-04-29T17:02:50.747Z] error: undefined
+[2024-04-29T17:02:50.982Z] error: undefined
+[2024-04-29T17:02:58.958Z] error: undefined
+[2024-04-29T17:02:59.211Z] error: undefined
+[2024-04-29T17:03:03.963Z] error: undefined
+[2024-04-29T17:03:09.638Z] error: undefined
+[2024-04-29T17:03:45.178Z] error: undefined
+[2024-04-29T17:05:19.433Z] error: undefined
+[2024-04-29T17:06:10.699Z] error: undefined
+[2024-04-29T17:06:10.979Z] error: undefined
+[2024-04-29T17:06:21.636Z] error: undefined
+[2024-04-29T17:06:29.827Z] error: undefined
+[2024-04-29T17:06:45.395Z] error: undefined
+[2024-04-29T17:06:45.687Z] error: undefined
+[2024-04-29T17:06:56.597Z] error: undefined
+[2024-04-29T17:06:56.897Z] error: undefined
+[2024-04-29T17:07:01.598Z] error: undefined
+[2024-04-29T17:07:33.732Z] error: undefined
+[2024-04-29T17:07:34.010Z] error: undefined
+[2024-04-29T17:07:52.600Z] error: undefined
+[2024-04-29T17:07:52.857Z] error: undefined
+[2024-04-29T17:07:57.604Z] error: undefined
+[2024-04-29T17:08:02.893Z] error: undefined
+[2024-04-29T17:08:17.936Z] error: undefined
+[2024-04-29T17:08:35.735Z] error: undefined
+[2024-04-29T17:08:41.782Z] error: undefined
+[2024-04-29T17:08:57.664Z] error: undefined
+[2024-04-29T17:08:59.419Z] error: undefined
+[2024-04-29T17:09:14.347Z] error: undefined
+[2024-04-29T17:09:15.097Z] error: undefined
+[2024-04-29T17:09:19.351Z] error: undefined
+[2024-04-29T17:09:25.638Z] error: undefined
+[2024-04-29T17:10:32.024Z] error: undefined
+[2024-04-29T17:10:32.294Z] error: undefined
+[2024-04-29T17:10:47.645Z] error: undefined
+[2024-04-29T17:11:52.213Z] error: undefined
+[2024-04-29T17:11:52.784Z] error: undefined
+[2024-04-29T17:12:08.671Z] error: undefined
+[2024-04-29T17:12:26.482Z] error: undefined
+[2024-04-29T17:12:39.785Z] error: undefined
+[2024-04-29T17:13:07.288Z] error: undefined
+[2024-04-29T17:13:22.331Z] error: undefined
+[2024-04-29T17:13:42.656Z] error: undefined
+[2024-04-29T17:13:56.517Z] error: undefined
+[2024-04-29T17:13:57.878Z] error: undefined
+[2024-04-29T17:14:10.444Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:14:10.445Z] error: TypeError: Cannot read properties of null (reading 'map')
+[2024-04-29T17:14:10.691Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:14:10.692Z] error: TypeError: Cannot read properties of null (reading 'map')
+[2024-04-29T17:14:13.841Z] error: undefined
+[2024-04-29T17:14:15.636Z] error: undefined
+[2024-04-29T17:14:18.845Z] error: undefined
+[2024-04-29T17:14:43.458Z] error: undefined
+[2024-04-29T17:14:43.764Z] error: undefined
+[2024-04-29T17:14:53.441Z] error: undefined
+[2024-04-29T17:15:03.475Z] error: undefined
+[2024-04-29T17:15:31.504Z] error: undefined
+[2024-04-29T17:15:56.568Z] error: undefined
+[2024-04-29T17:15:56.893Z] error: undefined
+[2024-04-29T17:16:04.953Z] error: undefined
+[2024-04-29T17:16:10.773Z] error: undefined
+[2024-04-29T17:16:20.642Z] error: undefined
+[2024-04-29T17:16:32.392Z] error: undefined
+[2024-04-29T17:17:59.426Z] error: undefined
+[2024-04-29T17:18:08.380Z] error: undefined
+[2024-04-29T17:19:11.305Z] error: undefined
+[2024-04-29T17:19:11.677Z] error: undefined
+[2024-04-29T17:19:25.259Z] error: undefined
+[2024-04-29T17:19:25.523Z] error: undefined
+[2024-04-29T17:19:30.261Z] error: undefined
+[2024-04-29T17:19:56.685Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:19:56.686Z] error: YAMLException: end of the stream or a document separator is expected (37:1)
+
+ 34 |         href: http://10.1.6.130 ...
+ 35 |         description: Gestion y  ...
+ 36 | 
+ 37 | widget:
+------^
+ 38 |   type: glances
+ 39 |   url: http://glances.host.or.i ...
+[2024-04-29T17:19:56.725Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:19:56.726Z] error: YAMLException: end of the stream or a document separator is expected (37:1)
+
+ 34 |         href: http://10.1.6.130 ...
+ 35 |         description: Gestion y  ...
+ 36 | 
+ 37 | widget:
+------^
+ 38 |   type: glances
+ 39 |   url: http://glances.host.or.i ...
+[2024-04-29T17:19:56.986Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:19:56.987Z] error: YAMLException: end of the stream or a document separator is expected (37:1)
+
+ 34 |         href: http://10.1.6.130 ...
+ 35 |         description: Gestion y  ...
+ 36 | 
+ 37 | widget:
+------^
+ 38 |   type: glances
+ 39 |   url: http://glances.host.or.i ...
+[2024-04-29T17:20:01.618Z] error: undefined
+[2024-04-29T17:20:01.911Z] error: undefined
+[2024-04-29T17:20:11.361Z] error: undefined
+[2024-04-29T17:20:11.639Z] error: undefined
+[2024-04-29T17:20:16.364Z] error: undefined
+[2024-04-29T17:20:28.824Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2024-04-29T17:20:28.826Z] error: end of the stream or a document separator is expected (28:1)
+
+ 25 |     format:
+ 26 |       timeStyle: short
+ 27 | 
+ 28 | widget:
+------^
+ 29 |   type: glances
+ 30 |   url: http://glances.host.or.i ...
+[2024-04-29T17:20:28.854Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2024-04-29T17:20:28.860Z] error: end of the stream or a document separator is expected (28:1)
+
+ 25 |     format:
+ 26 |       timeStyle: short
+ 27 | 
+ 28 | widget:
+------^
+ 29 |   type: glances
+ 30 |   url: http://glances.host.or.i ...
+[2024-04-29T17:20:29.057Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2024-04-29T17:20:29.057Z] error: end of the stream or a document separator is expected (28:1)
+
+ 25 |     format:
+ 26 |       timeStyle: short
+ 27 | 
+ 28 | widget:
+------^
+ 29 |   type: glances
+ 30 |   url: http://glances.host.or.i ...
+[2024-04-29T17:20:33.792Z] error: undefined
+[2024-04-29T17:20:45.518Z] error: undefined
+[2024-04-29T17:20:45.698Z] error: undefined
+[2024-04-29T17:20:50.521Z] error: undefined
+[2024-04-29T17:20:51.109Z] error: undefined
+[2024-04-29T17:20:57.803Z] error: undefined
+[2024-04-29T17:21:53.899Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:21:53.900Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-29T17:21:53.938Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:21:53.938Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-29T17:21:54.224Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:21:54.225Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-29T17:21:58.844Z] error: undefined
+[2024-04-29T17:21:59.189Z] error: undefined
+[2024-04-29T17:22:07.714Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:22:07.715Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-29T17:22:07.752Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:22:07.753Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-29T17:22:07.993Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:22:07.994Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-29T17:22:12.649Z] error: undefined
+[2024-04-29T17:22:12.762Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:22:12.763Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-29T17:22:12.939Z] error: undefined
+[2024-04-29T17:22:16.798Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:22:16.799Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-29T17:22:16.803Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:22:16.803Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-29T17:22:17.081Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:22:17.082Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-04-29T17:22:17.654Z] error: undefined
+[2024-04-29T17:22:21.750Z] error: undefined
+[2024-04-29T17:22:22.658Z] error: undefined
+[2024-04-29T17:22:26.753Z] error: undefined
+[2024-04-29T17:22:42.483Z] error: undefined
+[2024-04-29T17:22:42.760Z] error: undefined
+[2024-04-29T17:22:57.340Z] error: undefined
+[2024-04-29T17:22:58.180Z] error: undefined
+[2024-04-29T17:23:02.252Z] error: incomplete explicit mapping pair; a key node is missed; or followed by a non-tabulated empty line (37:7)
+
+ 34 |         href: http://10.1.6.130:8080
+ 35 |         description: Gestion y descar ...
+ 36 | - Hola:
+ 37 |     - :
+------------^
+ 38 |         widget:
+ 39 |           type: glances
+[2024-04-29T17:23:02.254Z] error: incomplete explicit mapping pair; a key node is missed; or followed by a non-tabulated empty line (37:7)
+
+ 34 |         href: http://10.1.6.130:8080
+ 35 |         description: Gestion y descar ...
+ 36 | - Hola:
+ 37 |     - :
+------------^
+ 38 |         widget:
+ 39 |           type: glances
+[2024-04-29T17:23:02.257Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:23:02.257Z] error: YAMLException: incomplete explicit mapping pair; a key node is missed; or followed by a non-tabulated empty line (37:7)
+
+ 34 |         href: http://10.1.6.130:8080
+ 35 |         description: Gestion y descar ...
+ 36 | - Hola:
+ 37 |     - :
+------------^
+ 38 |         widget:
+ 39 |           type: glances
+[2024-04-29T17:23:02.458Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:23:02.459Z] error: YAMLException: incomplete explicit mapping pair; a key node is missed; or followed by a non-tabulated empty line (37:7)
+
+ 34 |         href: http://10.1.6.130:8080
+ 35 |         description: Gestion y descar ...
+ 36 | - Hola:
+ 37 |     - :
+------------^
+ 38 |         widget:
+ 39 |           type: glances
+[2024-04-29T17:23:03.148Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:23:03.149Z] error: YAMLException: incomplete explicit mapping pair; a key node is missed; or followed by a non-tabulated empty line (37:7)
+
+ 34 |         href: http://10.1.6.130:8080
+ 35 |         description: Gestion y descar ...
+ 36 | - Hola:
+ 37 |     - :
+------------^
+ 38 |         widget:
+ 39 |           type: glances
+[2024-04-29T17:23:07.240Z] error: undefined
+[2024-04-29T17:23:07.953Z] error: undefined
+[2024-04-29T17:23:13.608Z] error: undefined
+[2024-04-29T17:23:13.940Z] error: undefined
+[2024-04-29T17:25:12.460Z] error: undefined
+[2024-04-29T17:25:12.907Z] error: undefined
+[2024-04-29T17:25:24.527Z] error: undefined
+[2024-04-29T17:25:30.671Z] error: undefined
+[2024-04-29T17:26:07.450Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:26:07.451Z] error: YAMLException: duplicated mapping key (42:9)
+
+ 39 |           type: glances
+ 40 |           url: http://10.1.6.130:7500
+ 41 |           metric: cpu
+ 42 |         widget:
+--------------^
+ 43 |           type: glances
+ 44 |           url: http://10.1.6.130:7500
+[2024-04-29T17:26:07.508Z] error: duplicated mapping key (42:9)
+
+ 39 |           type: glances
+ 40 |           url: http://10.1.6.130:7500
+ 41 |           metric: cpu
+ 42 |         widget:
+--------------^
+ 43 |           type: glances
+ 44 |           url: http://10.1.6.130:7500
+[2024-04-29T17:26:07.511Z] error: duplicated mapping key (42:9)
+
+ 39 |           type: glances
+ 40 |           url: http://10.1.6.130:7500
+ 41 |           metric: cpu
+ 42 |         widget:
+--------------^
+ 43 |           type: glances
+ 44 |           url: http://10.1.6.130:7500
+[2024-04-29T17:26:07.517Z] error: duplicated mapping key (42:9)
+
+ 39 |           type: glances
+ 40 |           url: http://10.1.6.130:7500
+ 41 |           metric: cpu
+ 42 |         widget:
+--------------^
+ 43 |           type: glances
+ 44 |           url: http://10.1.6.130:7500
+[2024-04-29T17:26:07.559Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:26:07.560Z] error: YAMLException: duplicated mapping key (42:9)
+
+ 39 |           type: glances
+ 40 |           url: http://10.1.6.130:7500
+ 41 |           metric: cpu
+ 42 |         widget:
+--------------^
+ 43 |           type: glances
+ 44 |           url: http://10.1.6.130:7500
+[2024-04-29T17:26:08.019Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:26:08.020Z] error: YAMLException: duplicated mapping key (42:9)
+
+ 39 |           type: glances
+ 40 |           url: http://10.1.6.130:7500
+ 41 |           metric: cpu
+ 42 |         widget:
+--------------^
+ 43 |           type: glances
+ 44 |           url: http://10.1.6.130:7500
+[2024-04-29T17:26:12.424Z] error: undefined
+[2024-04-29T17:26:12.945Z] error: undefined
+[2024-04-29T17:26:15.411Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:26:15.412Z] error: YAMLException: duplicated mapping key (42:9)
+
+ 39 |           type: glances
+ 40 |           url: http://10.1.6.130:7500
+ 41 |           metric: cpu
+ 42 |         widget:
+--------------^
+ 43 |           type: glances
+ 44 |           url: http://10.1.6.130:7500
+[2024-04-29T17:26:15.665Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:26:15.666Z] error: YAMLException: duplicated mapping key (42:9)
+
+ 39 |           type: glances
+ 40 |           url: http://10.1.6.130:7500
+ 41 |           metric: cpu
+ 42 |         widget:
+--------------^
+ 43 |           type: glances
+ 44 |           url: http://10.1.6.130:7500
+[2024-04-29T17:26:20.612Z] error: undefined
+[2024-04-29T17:26:20.645Z] error: undefined
+[2024-04-29T17:26:46.945Z] error: undefined
+[2024-04-29T17:26:47.352Z] error: undefined
+[2024-04-29T17:26:56.244Z] error: undefined
+[2024-04-29T17:26:56.522Z] error: undefined
+[2024-04-29T17:27:18.844Z] error: undefined
+[2024-04-29T17:27:19.162Z] error: undefined
+[2024-04-29T17:27:26.123Z] error: undefined
+[2024-04-29T17:30:46.884Z] error: undefined
+[2024-04-29T17:30:55.542Z] error: undefined
+[2024-04-29T17:30:55.885Z] error: undefined
+[2024-04-29T17:31:05.922Z] error: undefined
+[2024-04-29T17:31:11.748Z] error: undefined
+[2024-04-29T17:31:25.321Z] error: undefined
+[2024-04-29T17:31:25.701Z] error: undefined
+[2024-04-29T17:31:41.664Z] error: undefined
+[2024-04-29T17:31:50.506Z] error: undefined
+[2024-04-29T17:31:50.786Z] error: undefined
+[2024-04-29T17:32:06.626Z] error: undefined
+[2024-04-29T17:32:09.776Z] error: undefined
+[2024-04-29T17:32:16.472Z] error: undefined
+[2024-04-29T17:32:28.705Z] error: undefined
+[2024-04-29T17:32:28.956Z] error: undefined
+[2024-04-29T17:32:43.413Z] error: undefined
+[2024-04-29T17:32:47.555Z] error: undefined
+[2024-04-29T17:33:27.710Z] error: undefined
+[2024-04-29T17:33:28.021Z] error: undefined
+[2024-04-29T17:33:57.377Z] error: undefined
+[2024-04-29T17:34:28.403Z] error: undefined
+[2024-04-29T17:34:29.356Z] error: undefined
+[2024-04-29T17:34:39.401Z] error: undefined
+[2024-04-29T17:35:00.113Z] error: undefined
+[2024-04-29T17:35:09.627Z] error: undefined
+[2024-04-29T17:35:50.296Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:35:50.297Z] error: YAMLException: bad indentation of a mapping entry (62:25)
+
+ 59 |         widget:
+ 60 |           type: glances
+ 61 |           url: http://10.1.6.130:7500
+ 62 |           metric: sensor: 0
+------------------------------^
+ 63 | 
+[2024-04-29T17:35:50.304Z] error: bad indentation of a mapping entry (62:25)
+
+ 59 |         widget:
+ 60 |           type: glances
+ 61 |           url: http://10.1.6.130:7500
+ 62 |           metric: sensor: 0
+------------------------------^
+ 63 | 
+[2024-04-29T17:35:50.308Z] error: bad indentation of a mapping entry (62:25)
+
+ 59 |         widget:
+ 60 |           type: glances
+ 61 |           url: http://10.1.6.130:7500
+ 62 |           metric: sensor: 0
+------------------------------^
+ 63 | 
+[2024-04-29T17:35:50.311Z] error: bad indentation of a mapping entry (62:25)
+
+ 59 |         widget:
+ 60 |           type: glances
+ 61 |           url: http://10.1.6.130:7500
+ 62 |           metric: sensor: 0
+------------------------------^
+ 63 | 
+[2024-04-29T17:35:50.319Z] error: bad indentation of a mapping entry (62:25)
+
+ 59 |         widget:
+ 60 |           type: glances
+ 61 |           url: http://10.1.6.130:7500
+ 62 |           metric: sensor: 0
+------------------------------^
+ 63 | 
+[2024-04-29T17:35:50.335Z] error: bad indentation of a mapping entry (62:25)
+
+ 59 |         widget:
+ 60 |           type: glances
+ 61 |           url: http://10.1.6.130:7500
+ 62 |           metric: sensor: 0
+------------------------------^
+ 63 | 
+[2024-04-29T17:35:50.359Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:35:50.360Z] error: YAMLException: bad indentation of a mapping entry (62:25)
+
+ 59 |         widget:
+ 60 |           type: glances
+ 61 |           url: http://10.1.6.130:7500
+ 62 |           metric: sensor: 0
+------------------------------^
+ 63 | 
+[2024-04-29T17:35:50.632Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:35:50.632Z] error: YAMLException: bad indentation of a mapping entry (62:25)
+
+ 59 |         widget:
+ 60 |           type: glances
+ 61 |           url: http://10.1.6.130:7500
+ 62 |           metric: sensor: 0
+------------------------------^
+ 63 | 
+[2024-04-29T17:35:55.236Z] error: undefined
+[2024-04-29T17:35:55.584Z] error: undefined
+[2024-04-29T17:36:09.509Z] error: undefined
+[2024-04-29T17:36:09.794Z] error: undefined
+[2024-04-29T17:36:14.515Z] error: undefined
+[2024-04-29T17:36:24.838Z] error: undefined
+[2024-04-29T17:36:44.866Z] error: undefined
+[2024-04-29T17:37:12.233Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:37:12.234Z] error: YAMLException: bad indentation of a mapping entry (62:25)
+
+ 59 |         widget:
+ 60 |           type: glances
+ 61 |           url: http://10.1.6.130:7500
+ 62 |           metric: sensor: CPU
+------------------------------^
+ 63 | 
+[2024-04-29T17:37:12.238Z] error: bad indentation of a mapping entry (62:25)
+
+ 59 |         widget:
+ 60 |           type: glances
+ 61 |           url: http://10.1.6.130:7500
+ 62 |           metric: sensor: CPU
+------------------------------^
+ 63 | 
+[2024-04-29T17:37:12.241Z] error: bad indentation of a mapping entry (62:25)
+
+ 59 |         widget:
+ 60 |           type: glances
+ 61 |           url: http://10.1.6.130:7500
+ 62 |           metric: sensor: CPU
+------------------------------^
+ 63 | 
+[2024-04-29T17:37:12.245Z] error: bad indentation of a mapping entry (62:25)
+
+ 59 |         widget:
+ 60 |           type: glances
+ 61 |           url: http://10.1.6.130:7500
+ 62 |           metric: sensor: CPU
+------------------------------^
+ 63 | 
+[2024-04-29T17:37:12.247Z] error: bad indentation of a mapping entry (62:25)
+
+ 59 |         widget:
+ 60 |           type: glances
+ 61 |           url: http://10.1.6.130:7500
+ 62 |           metric: sensor: CPU
+------------------------------^
+ 63 | 
+[2024-04-29T17:37:12.262Z] error: bad indentation of a mapping entry (62:25)
+
+ 59 |         widget:
+ 60 |           type: glances
+ 61 |           url: http://10.1.6.130:7500
+ 62 |           metric: sensor: CPU
+------------------------------^
+ 63 | 
+[2024-04-29T17:37:12.287Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:37:12.287Z] error: YAMLException: bad indentation of a mapping entry (62:25)
+
+ 59 |         widget:
+ 60 |           type: glances
+ 61 |           url: http://10.1.6.130:7500
+ 62 |           metric: sensor: CPU
+------------------------------^
+ 63 | 
+[2024-04-29T17:37:12.650Z] error: Failed to load services.yaml, please check for errors
+[2024-04-29T17:37:12.652Z] error: YAMLException: bad indentation of a mapping entry (62:25)
+
+ 59 |         widget:
+ 60 |           type: glances
+ 61 |           url: http://10.1.6.130:7500
+ 62 |           metric: sensor: CPU
+------------------------------^
+ 63 | 
+[2024-04-29T17:37:17.131Z] error: undefined
+[2024-04-29T17:37:17.571Z] error: undefined
+[2024-04-29T17:38:13.386Z] error: undefined
+[2024-04-29T17:38:13.703Z] error: undefined
+[2024-04-29T17:38:57.233Z] error: undefined
+[2024-04-29T17:39:12.622Z] error: undefined
+[2024-04-29T17:39:18.196Z] error: undefined
+[2024-04-29T17:39:19.208Z] error: undefined
+[2024-04-29T17:39:31.243Z] error: undefined
+[2024-04-29T17:39:32.072Z] error: undefined
+[2024-04-29T17:39:36.245Z] error: undefined
+[2024-04-29T17:40:03.001Z] error: undefined
+[2024-04-29T17:40:08.810Z] error: undefined
+[2024-04-29T17:40:09.199Z] error: undefined
+[2024-04-29T17:40:19.312Z] error: undefined
+[2024-04-29T17:41:06.025Z] error: undefined
+[2024-04-29T17:41:06.803Z] error: undefined
+[2024-04-29T17:41:48.825Z] error: undefined
+[2024-04-29T17:41:58.895Z] error: undefined
+[2024-04-29T17:43:21.975Z] error: undefined
+[2024-04-29T17:43:32.938Z] error: undefined
+[2024-04-29T17:44:02.253Z] error: undefined
+[2024-04-29T17:44:08.514Z] error: undefined
+[2024-04-29T17:44:26.753Z] error: undefined
+[2024-04-29T17:44:42.887Z] error: undefined
+[2024-04-29T17:44:53.298Z] error: undefined
+[2024-04-29T17:45:08.726Z] error: undefined
+[2024-04-29T17:45:24.359Z] error: undefined
+[2024-04-29T17:45:36.263Z] error: undefined
+[2024-04-29T17:46:01.442Z] error: undefined
+[2024-04-29T17:46:07.111Z] error: undefined
+[2024-04-29T17:46:22.675Z] error: undefined
+[2024-04-29T17:46:42.795Z] error: undefined
+[2024-04-29T17:46:45.359Z] error: undefined
+[2024-04-29T17:46:47.798Z] error: undefined
+[2024-04-29T17:46:50.364Z] error: undefined
+[2024-04-29T17:46:54.477Z] error: undefined
+[2024-04-29T17:47:12.635Z] error: undefined
+[2024-04-29T17:47:18.296Z] error: undefined
+[2024-04-29T17:47:19.598Z] error: undefined
+[2024-04-29T17:47:26.411Z] error: undefined
+[2024-04-29T17:47:51.914Z] error: undefined
+[2024-04-29T17:47:52.803Z] error: undefined
+[2024-04-29T17:48:08.352Z] error: undefined
+[2024-04-29T17:48:09.222Z] error: undefined
+[2024-04-29T17:48:38.542Z] error: undefined
+[2024-04-29T17:48:39.541Z] error: undefined
+[2024-04-29T17:48:48.987Z] error: undefined
+[2024-04-29T17:48:49.808Z] error: undefined
+[2024-04-29T17:48:57.465Z] error: undefined
+[2024-04-29T17:48:58.321Z] error: undefined
+[2024-04-29T17:49:02.472Z] error: undefined
+[2024-04-29T17:49:03.937Z] error: undefined
+[2024-04-29T17:49:07.476Z] error: undefined
+[2024-04-29T17:49:10.961Z] error: undefined
+[2024-04-29T17:49:45.544Z] error: undefined
+[2024-04-29T17:49:46.659Z] error: undefined
+[2024-04-29T17:50:07.305Z] error: undefined
+[2024-04-29T17:50:08.224Z] error: undefined
+[2024-04-29T17:50:14.391Z] error: undefined
+[2024-04-29T17:50:29.640Z] error: undefined
+[2024-04-29T17:50:38.159Z] error: undefined
+[2024-04-29T17:50:55.323Z] error: undefined
+[2024-04-29T17:51:09.075Z] error: undefined
+[2024-04-29T17:51:22.438Z] error: undefined
+[2024-04-29T17:51:23.457Z] error: undefined
+[2024-04-29T17:51:39.442Z] error: undefined
+[2024-04-29T17:51:40.368Z] error: undefined
+[2024-04-29T17:52:19.593Z] error: undefined
+[2024-04-29T17:52:20.475Z] error: undefined
+[2024-04-29T17:52:40.292Z] error: undefined
+[2024-04-29T17:53:17.047Z] error: undefined
+[2024-04-29T17:53:18.043Z] error: undefined
+[2024-04-29T17:54:06.311Z] error: undefined
+[2024-04-29T17:54:07.609Z] error: undefined
+[2024-04-29T17:54:22.649Z] error: undefined
+[2024-04-29T17:54:29.302Z] error: undefined
+[2024-04-29T17:54:44.621Z] error: undefined
+[2024-04-29T17:54:48.525Z] error: undefined
+[2024-04-29T17:55:24.658Z] error: undefined
+[2024-04-29T17:55:25.664Z] error: undefined
+[2024-04-29T17:55:32.568Z] error: undefined
+[2024-04-29T17:55:33.376Z] error: undefined
+[2024-04-29T17:55:39.610Z] error: undefined
+[2024-04-29T17:55:40.444Z] error: undefined
+[2024-04-29T17:55:52.142Z] error: undefined
+[2024-04-29T17:55:54.866Z] error: undefined
+[2024-04-29T17:56:16.379Z] error: undefined
+[2024-04-29T17:56:17.266Z] error: undefined
+[2024-04-29T17:56:42.975Z] error: undefined
+[2024-04-29T17:56:43.938Z] error: undefined
+[2024-04-29T17:56:49.332Z] error: undefined
+[2024-04-29T17:56:58.105Z] error: undefined
+[2024-04-29T17:56:58.961Z] error: undefined
+[2024-04-29T17:57:16.366Z] error: undefined
+[2024-04-29T17:57:17.175Z] error: undefined
+[2024-04-29T17:57:21.373Z] error: undefined
+[2024-04-29T17:57:32.218Z] error: undefined
+[2024-04-29T17:57:53.599Z] error: undefined
+[2024-04-29T17:58:08.634Z] error: undefined
+[2024-04-29T17:58:37.921Z] error: undefined
+[2024-04-29T17:58:50.444Z] error: undefined
+[2024-04-29T17:59:10.622Z] error: undefined
+[2024-04-29T17:59:46.167Z] error: undefined
+[2024-04-29T18:00:01.629Z] error: undefined
+[2024-04-29T18:00:41.972Z] error: undefined
+[2024-04-29T18:00:48.579Z] error: undefined
+[2024-04-29T18:00:59.360Z] error: undefined
+[2024-04-29T18:01:19.776Z] error: undefined
+[2024-04-29T18:01:35.629Z] error: undefined
+[2024-04-29T18:02:02.535Z] error: undefined
+[2024-04-29T18:02:17.786Z] error: undefined
+[2024-04-29T18:02:30.363Z] error: undefined
+[2024-04-29T18:02:38.918Z] error: undefined
+[2024-04-29T18:02:54.740Z] error: undefined
+[2024-04-29T18:03:49.805Z] error: undefined
+[2024-04-29T18:03:59.836Z] error: undefined
+[2024-04-29T18:04:13.748Z] error: undefined
+[2024-04-29T18:04:19.875Z] error: undefined
+[2024-04-29T18:04:44.507Z] error: undefined
+[2024-04-29T18:04:50.623Z] error: undefined
+[2024-04-29T18:04:59.549Z] error: undefined
+[2024-04-29T18:05:29.586Z] error: undefined
+[2024-04-29T18:05:44.126Z] error: undefined
+[2024-04-29T18:05:49.353Z] error: undefined
+[2024-04-29T18:05:55.006Z] error: undefined
+[2024-04-29T18:06:04.403Z] error: undefined
+[2024-04-29T18:06:09.936Z] error: undefined
+[2024-04-29T18:06:19.974Z] error: undefined
+[2024-04-29T18:06:43.090Z] error: undefined
+[2024-04-29T18:06:58.136Z] error: undefined
+[2024-04-29T18:07:05.641Z] error: undefined
+[2024-04-29T18:07:20.676Z] error: undefined
+[2024-04-29T18:07:28.604Z] error: undefined
+[2024-04-29T18:07:40.644Z] error: undefined
+[2024-04-29T18:07:46.845Z] error: undefined
+[2024-04-29T18:07:47.723Z] error: undefined
+[2024-04-29T18:07:58.099Z] error: undefined
+[2024-04-29T18:08:13.141Z] error: undefined
+[2024-04-29T18:08:38.619Z] error: undefined
+[2024-04-29T18:20:46.310Z] error: undefined

@@ -1,0 +1,46 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/settings
+
+#pick one of the weather providers
+theme: dark
+language: es
+providers:
+  openweathermap: your_open_weather_api
+  weatherapi: your_weather_api
+color: gray
+background:
+  image: https://i.pinimg.com/originals/6d/dd/3b/6ddd3b3f1f74e92d8badbe1b6b302d23.jpg
+  blur: sm
+  opacity: 65
+title: BUBI Server
+favicon: https://raw.githubusercontent.com/bait-py/bubiserver/main/favicon.ico
+iconStyle: theme
+headerStyle: clean
+hideVersion: true
+target: _self
+statusStyle: "dot"
+disableCollapse: true
+fiveColumns: true
+
+layout:
+  Ficheros y Backups:
+    style: row
+    columns: 3
+    icon: mdi-folder-multiple
+  Entretenimiento:
+    style: row
+    columns: 3
+    icon: mdi-wizard-hat
+  Administración y servicios:
+    style: row
+    columns: 3
+    icon: mdi-file-tree
+  Apps:
+    style: row
+    columns: 3
+    icon: mdi-apps
+  Estadísticas:
+    style: row
+    columns: 3
+    icon: mdi-server
