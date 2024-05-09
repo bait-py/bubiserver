@@ -1,5 +1,5 @@
 1. Instalar Ubuntu Server
-2. Comunicar con TrueNAS
+2. Configurar fstab para comunicarse con el share NFS del servidor NAS
 3. Instalar DOCKER
 4. Instalar Portainer
 4.5. Instalar Homepage
