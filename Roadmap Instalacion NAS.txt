@@ -1,6 +1,0 @@
-1. Instalar discos fisicos y poner en marcha SuperMicro
-2. Instalar Rockstor en el SSD
-3. Formatear discos y borrar particiones
-4. Crear pool con todos los dicos (RAID 5)
-5. Habilitar comparticion por NFS y habilitar rw para el cliente
-6. Configurar fstab del cliente para comunicarse con el servidor NAS
