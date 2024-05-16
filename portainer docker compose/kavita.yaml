@@ -1,0 +1,16 @@
+version: "3.9"
+services:
+  kavita:
+    image: jvmilazz0/kavita:latest
+    container_name: Kavita
+    hostname: kavita
+    mem_limit: 4g
+    cpu_shares: 768
+    security_opt:
+      - no-new-privileges:true
+    ports:
+      - 5471:5000
+    volumes:
+      - /bubiapps/kavita/config:/kavita/config:rw
+      - /bubistorage/kavita/manga:/manga:rw
+    restart: unless-stopped

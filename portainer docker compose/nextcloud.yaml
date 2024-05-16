@@ -1,0 +1,15 @@
+---
+services:
+  nextcloud:
+    image: lscr.io/linuxserver/nextcloud:latest
+    container_name: nextcloud
+    environment:
+      - PUID=1000
+      - PGID=65533
+      - TZ=Europe/Madrid
+    volumes:
+      - /bubiapps/nextcloud/config:/config
+      - /bubistorage/nextclouddata:/data
+    ports:
+      - 443:443
+    restart: unless-stopped

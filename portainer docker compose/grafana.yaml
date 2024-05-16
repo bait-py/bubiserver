@@ -1,0 +1,40 @@
+version: '2'
+services:
+  influxdb:
+    image: influxdb:latest
+    ports:
+      - '8086:8086'
+    volumes:
+      - influxdb-storage:/bubiapps/grafana
+    environment:
+      - INFLUXDB_DB=db0
+      - INFLUXDB_ADMIN_USER=bubi
+      - INFLUXDB_ADMIN_PASSWORD=root
+  chronograf:
+    image: chronograf:latest
+    ports:
+      - '10.1.8.130:8888:8888'
+    volumes:
+      - chronograf-storage:/bubiapps/chronograf
+    depends_on:
+      - influxdb
+    environment:
+      - INFLUXDB_URL=http://10.1.8.130:8086
+      - INFLUXDB_USERNAME=bubi
+      - INFLUXDB_PASSWORD=root
+  grafana:
+    image: grafana/grafana:latest
+    ports:
+      - '3000:3000'
+    volumes:
+      - grafana-storage:/bubiapps/grafana
+      - ./grafana-provisioning/:/bubiapps/grafana/provisioning
+    depends_on:
+      - influxdb
+    environment:
+      - GF_SECURITY_ADMIN_USER=bubi
+      - GF_SECURITY_ADMIN_PASSWORD=root
+volumes:
+  influxdb-storage:
+  chronograf-storage:
+  grafana-storage:

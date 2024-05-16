@@ -1,0 +1,19 @@
+version: "3.9"
+services:
+  audiobookshelf:
+    container_name: Audiobookshelf
+    image: advplyr/audiobookshelf
+    mem_limit: 4g
+    cpu_shares: 768
+    security_opt:
+      - no-new-privileges:true
+    restart: on-failure:5
+    ports:
+      - 13378:80
+    volumes:
+      - /bubiapps/audiobookshelf/config:/config
+      - /bubistorage/audiobookshelf/audiobooks:/audiobooks
+      - /bubistorage/audiobookshelf/metadata:/metadata
+    environment:
+      PUID: 1000
+      PGID: 1003
