@@ -8,29 +8,44 @@
 ## Requisitos Previos 📋
 
 - **Hardware:**
-  - Un ordenador o dispositivo con suficiente capacidad de almacenamiento y potencia de procesamiento.
-  - Conexión a internet estable.
+  - Raspberry Pi 4.
+  - Un NAS o Sistema de almacenamiento a eleccion.
 - **Software:**
-  - Sistema operativo preferido (¡Linux es nuestra opción favorita para este proyecto!).
+  - USB con Ubuntu Server flasheado.
   - Herramientas de gestión remota (SSH, VNC, etc.).
 
 ## Instalación 🛠️
 
 1. **Sistema Operativo:**
-   - Instala tu distribución de Linux favorita en tu servidor. Puedes elegir entre Ubuntu, Fedora, o cualquier otra que te guste.
-   - ¡No olvides tomar una taza de tu té o café favorito mientras esperas!
+   - Para comenzar, instalaremos Ubuntu Server en nuestra Raspberry Pi 4.
+   - ¡No olvides tomar una taza de tu té o café favorito mientras esperas! 🐱
 
 2. **Configuración de Red:**
    - Asigna una dirección IP estática a tu servidor para un acceso más sencillo.
-   - Configura tu enrutador para redirigir los puertos necesarios hacia tu servidor (¡como abrir una ventana para que entre la brisa fresca!).
+   - En caso de no haber instalado SSH, instalalo para poder conectarnos remotamente en caso de necesitarlo.
 
-3. **Instalación de Servicios:**
-   - Utiliza el gestor de paquetes de tu distribución para instalar los servicios que necesites, como:
-     - **Servidor Web:** Apache, Nginx.
-     - **Servidor de Archivos:** Samba, NFS.
-     - **Servidor de Medios:** Plex, Kodi.
-     - **Servidor de Juegos:** Minecraft, Factorio.
-     - **Servidor de Aplicaciones:** Docker, Kubernetes.
+3. **Instalación de Docker + Portainer:**
+   - Una vez tengamos conexión al servidor, empezaremos con la instalación de Docker y Portainer.
+     - Empezamos instalando actualizando el sistema:
+         ```
+         sudo apt update
+         sudo apt upgrade
+         ```
+     - Instalamos docker:
+         ```
+         sudo apt install docker.io
+         sudo systemctl enable docker
+         sudo systemctl start docker
+         sudo systemctl status docker
+         ```
+     - Una vez instalado Docker, instalaremos Portainer mediante este ultimo:
+         ```
+         sudo docker run -d -p 8000:8000 -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v   /volume1/docker/portainer:/data portainer/portainer
+         ```
+      - Ahora accederemos a la interficie gràfica de Portainer mediante el puerto 9000:
+         ```
+         http://IPDelServidor:9000/
+         ```
 
 4. **Configuración de Seguridad:**
    - ¡Ponle un casco protector a tu servidor! Habilita el firewall y configura reglas para mantenerlo seguro.
