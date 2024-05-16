@@ -73,7 +73,7 @@
   5. **Instalación del primer servicio (Homepage):**
        - Ahora que ya tenemos Portainer preparado para instalar cualquier servicio, empezaremos con la instalación de nuestras aplicaciones y para empezar, instalaremos el dashboard de BUBI Server.
        - Para empezar iremos a nuestro nuevo entorno y entraremos al apartado Stacks.
-       - Aqui, haremos clic en "+ Add Stack" y en el apartado Web Editor copiaremos el compose de Homepage ()
+       - Aqui, haremos clic en "+ Add Stack" y en el apartado Web Editor copiaremos el compose de Homepage (https://github.com/bait-py/bubiserver/blob/main/portainer%20docker%20compose/homepage.yaml)
 
 
 
