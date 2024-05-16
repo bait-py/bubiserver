@@ -73,21 +73,17 @@
   5. **Instalación del primer servicio (Homepage):**
        - Ahora que ya tenemos Portainer preparado para instalar cualquier servicio, empezaremos con la instalación de nuestras aplicaciones y para empezar, instalaremos el dashboard de BUBI Server.
        - Para empezar iremos a nuestro nuevo entorno y entraremos al apartado Stacks.
-       - Aqui, haremos clic en "+ Add Stack" y en el apartado Web Editor copiaremos el compose de Homepage (https://github.com/bait-py/bubiserver/blob/main/portainer%20docker%20compose/homepage.yaml)
+       - Aqui, haremos clic en "+ Add Stack" y en el apartado Web Editor copiaremos el compose de Homepage --> [Link 🔗](https://github.com/bait-py/bubiserver/blob/main/portainer%20docker%20compose/homepage.yaml).
+       - Una vez copiado haremos clic en Deploy Stack.
+       - Una vez deployeado, entraremos a http://IPDelServidor:7200
+       - Si deseamos configurar Homepage nosotros mismos podemos hacerlo mediante los archivos de configuracion, si simplemente queremos configurar Homepage como en BUBI Server, podemos copiar la configuración de BUBI Server --> [Link 🔗](https://github.com/bait-py/bubiserver/tree/main/homepage%20config).
 
-
-
-
-
-## Uso 💡
+## Instalación del resto de serviciós + Información Adicional ⚙🔧
 
 ¡Ahora es momento de disfrutar tu nuevo servidor!
 
-- Accede a tu servidor web visitando la dirección IP desde tu navegador favorito.
-- Comparte archivos con tus amigos y familiares utilizando tu servidor de archivos.
-- Disfruta de una noche de películas utilizando tu servidor de medios.
-- ¡Invita a tus amigos a jugar en tu propio servidor de juegos!
-- Ejecuta aplicaciones personalizadas para tus proyectos especiales.
+En caso de que queramos instalar más servicios este mismo repositorio dispone de algunos docker compose para el resto de servicios [Link 🔗](https://github.com/bait-py/bubiserver/tree/main/portainer%20docker%20compose).
+Si queremos instalar algun otro servicio, tambien podemos encontrar sus compose en [Docker Hub](https://hub.docker.com/search?q=linuxserver) o [linuxserver.io](https://docs.linuxserver.io/).
 
 ## Contribuciones 🎉
 
@@ -95,6 +91,6 @@
 
 ## Licencia 📝
 
-Este proyecto está bajo la [Licencia MIT](LICENSE).
+Este proyecto está bajo la Licencia Creative Commons [BUBI Server © 2024 by BUBI is licensed under CC BY 4.0].
 
-¡Gracias por contribuir al proyecto del Home Server! Esperamos que disfrutes configurando tu propio espacio en la nube local. 🚀✨
+¡Gracias por contribuir a BUBI Server! Esperamos que disfrutes configurando tu propio espacio en la nube local. 🚀✨
