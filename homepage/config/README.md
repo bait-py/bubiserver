@@ -1,6 +1,8 @@
-# Configuración del Home Server 🏠💻
+# Instalación y configuración de BUBI Server 🏠💻
 
-¡Bienvenido al repositorio del Home Server! Aquí encontrarás todo lo que necesitas para configurar y personalizar tu propio servidor en casa.
+¡Bienvenido al repositorio de BUBI Server! Aquí encontrarás todo lo que necesitas para configurar y personalizar tu propio servidor en casa como lo tenemos hecho en BUBI.
+![Resultado Final](https://raw.githubusercontent.com/bait-py/bubiserver/main/BUBIServerResult1.jpg)
+![Resultado Final](https://raw.githubusercontent.com/bait-py/bubiserver/main/BUBIServerResult2.jpg)
 
 ## Requisitos Previos 📋
 
