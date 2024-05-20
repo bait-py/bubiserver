@@ -42,7 +42,7 @@
 4. **Instalación de Docker + Portainer:**
    - Una vez tengamos conexión al servidor, empezaremos con la instalación de Docker y Portainer.
      
-     - Empezamos instalando actualizando el sistema:
+     - Empezamos actualizando el sistema:
          ```
          sudo apt update
          sudo apt upgrade
@@ -72,21 +72,21 @@
   5. **Instalación del primer servicio (Homepage):**
        - Ahora que ya tenemos Portainer preparado para instalar cualquier servicio, empezaremos con la instalación de nuestras aplicaciones y para empezar, instalaremos el dashboard de BUBI Server.
        - Para empezar iremos a nuestro nuevo entorno y entraremos al apartado Stacks.
-       - Aqui, haremos clic en "+ Add Stack" y en el apartado Web Editor copiaremos el compose de Homepage --> [Link 🔗](https://github.com/bait-py/bubiserver/blob/main/portainer%20docker%20compose/homepage.yaml).
+       - Aqui, haremos clic en "+ Add Stack" y en el apartado Web Editor copiaremos el compose de Homepage [Link 🔗](https://github.com/bait-py/bubiserver/blob/main/portainer%20docker%20compose/homepage.yaml).
        - Una vez copiado haremos clic en Deploy Stack.
-       - Una vez deployeado, entraremos a http://IPDelServidor:7200
-       - Si deseamos configurar Homepage nosotros mismos podemos hacerlo mediante los archivos de configuración, si simplemente queremos configurar Homepage como en BUBI Server, podemos copiar la configuración de BUBI Server --> [Link 🔗](https://github.com/bait-py/bubiserver/tree/main/homepage%20config).
+       - Una vez desplegado, entraremos a http://IPDelServidor:7200
+       - Si deseamos configurar Homepage nosotros mismos podemos hacerlo mediante los archivos de configuración, si simplemente queremos configurar Homepage como en BUBI Server, podemos copiar la configuración de BUBI Server [Configuración 🔗](https://github.com/bait-py/bubiserver/tree/main/homepage%20config).
 
-## Instalación del resto de servicios + Información Adicional ⚙🔧
+## Instalación del resto de servicios + Información Adicional ⚙
 
 ¡Ahora es momento de disfrutar tu nuevo servidor!
 
-En caso de que queramos instalar más servicios, este mismo repositorio dispone de algunos docker compose para el resto de servicios [Link 🔗](https://github.com/bait-py/bubiserver/tree/main/portainer%20docker%20compose).
+En caso de que queramos instalar más servicios, este mismo repositorio dispone de algunos docker compose para el resto de servicios [Docker Compose 🔗](https://github.com/bait-py/bubiserver/tree/main/portainer%20docker%20compose).
 Si queremos instalar algún otro servicio, también podemos encontrar sus compose en [Docker Hub](https://hub.docker.com/search?q=linuxserver) o [linuxserver.io](https://docs.linuxserver.io/).
 
 ## Contribuciones 🎉
 
-¡Queremos escuchar tus ideas! Si tienes sugerencias, correcciones o nuevas características que quieras añadir, ¡por favor compártelas con nosotros!
+¡Queremos escuchar tus ideas! Si tienes sugerencias, correcciones o nuevas características que quieras añadir compártelas con nosotros.
 
 ## Licencia 📝
 
