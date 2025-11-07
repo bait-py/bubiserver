@@ -18,7 +18,6 @@
 
 1. **Sistema Operativo:**
    - Para comenzar, instalaremos Ubuntu Server en nuestra Raspberry Pi 4.
-   - ¡No olvides tomar una taza de tu té o café favorito mientras esperas! 🐱
 
 2. **Configuración de Red:**
    - Asigna una dirección IP estática a tu servidor para un acceso más sencillo.
