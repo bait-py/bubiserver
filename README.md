@@ -5,7 +5,7 @@
 ![Resultado Final](https://raw.githubusercontent.com/bait-py/bubiserver/main/BUBIServerResult1.jpg)
 ![Resultado Final 2](https://raw.githubusercontent.com/bait-py/bubiserver/main/BUBIServerResult2.jpg)
 
-## Requisitos Previos 📋
+## Requisitos Previos
 
 - **Hardware:**
   - Raspberry Pi 4.
