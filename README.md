@@ -14,7 +14,7 @@
   - USB con Ubuntu Server flasheado.
   - Herramientas de gestión remota (SSH, VNC, etc.).
 
-## Instalación 🛠️
+## Instalación
 
 1. **Sistema Operativo:**
    - Para comenzar, instalaremos Ubuntu Server en nuestra Raspberry Pi 4.
